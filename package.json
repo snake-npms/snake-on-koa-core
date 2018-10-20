@@ -1,6 +1,6 @@
 {
   "name": "snake-on-koa-core",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "koa": "^2.5.3",
     "koa-router": "^7.4.0",
-    "snake-orm": "0.0.8",
+    "snake-orm": "^0.0.10",
     "snake-utils": "0.0.7"
   }
 }
